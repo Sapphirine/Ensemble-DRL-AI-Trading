@@ -1,0 +1,11 @@
+.idea/
+.ipynb_checkpoints/
+visuals/
+datasets/
+results/
+tensorboard_log/
+trained_models/
+*.csv
+__pycache__/
+*.pyc
+.DS_Store
