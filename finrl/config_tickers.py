@@ -34,7 +34,7 @@ DOW_30_TICKER = [
     "WBA",
     "WMT",
     "DIS",
-    "DOW",
+    # "DOW",
 ]
 
 # Nasdaq 100 constituents at 2019/01
