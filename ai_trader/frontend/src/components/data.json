@@ -1,0 +1,86 @@
+{
+	"ppp_90_top": [
+		"CAT",
+		"V",
+		"INTC",
+		"CRM",
+		"WMT"
+	],
+	"ppo_90_bottom": [
+		"TRV",
+		"CVX",
+		"AAPL",
+		"GS",
+		"AMGN"
+	],
+	"ppo_120_top": [
+		"CAT",
+		"INTC",
+		"V",
+		"CRM",
+		"MSFT"
+	],
+	"ppo_120_bottom": [
+		"TRV",
+		"CVX",
+		"GS",
+		"AMGN",
+		"AAPL"
+	],
+	"ppo_inf_top": [
+		"INTC",
+		"CAT",
+		"V",
+		"CRM",
+		"WMT"
+	],
+	"ppo_inf_bottom": [
+		"TRV",
+		"CVX",
+		"GS",
+		"AMGN",
+		"AAPL"
+	],
+	"a2c_90_top": [
+		"WMT",
+		"HON",
+		"MRK",
+		"INTC",
+		"DIS"
+	],
+	"a2c_90_bottom": [
+		"TRV",
+		"CVX",
+		"PG",
+		"AAPL",
+		"GS"
+	],
+	"a2c_120_top": [
+		"MSFT",
+		"INTC",
+		"JPM",
+		"CAT",
+		"IBM"
+	],
+	"a2c_120_bottom": [
+		"CVX",
+		"GS",
+		"TRV",
+		"PG",
+		"AXP"
+	],
+	"a2c_inf_top": [
+		"WMT",
+		"MRK",
+		"BA",
+		"V",
+		"CAT"
+	],
+	"a2c_inf_bottom": [
+		"TRV",
+		"GS",
+		"JNJ",
+		"KO",
+		"AAPL"
+	]
+}
